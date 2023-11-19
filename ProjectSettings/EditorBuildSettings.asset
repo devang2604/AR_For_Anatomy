@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Body_Parts/Human_skull.unity
+    guid: 20d3442b467c2f24697d79433f8fe2c4
+  - enabled: 1
+    path: Assets/Scenes/Body_Parts/Brain.unity
+    guid: c660b33a491bc524fb63bd7ce3e8a46d
+  - enabled: 1
+    path: Assets/Scenes/Body_Parts/Gastrointestinal.unity
+    guid: b9992a15109ca8649ac385095f1f46b2
+  - enabled: 1
+    path: Assets/Scenes/Body_Parts/Kidney.unity
+    guid: 10311fbd31ac3a542a0ec254034ab745
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6699171a32414a243beb136ca4ef89d4, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 0ee145099e362364bb4db3ee36a4193d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6c04bb2641b102c46a9440d090a4987c, type: 2}

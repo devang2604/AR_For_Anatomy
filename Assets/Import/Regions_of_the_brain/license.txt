@@ -1,0 +1,11 @@
+Model Information:
+* title:	Regions of the brain
+* source:	https://sketchfab.com/3d-models/regions-of-the-brain-b2aac93ee4c440ed911f5765158edc9f
+* author:	University of Dundee, CAHID (https://sketchfab.com/anatomy_dundee)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Regions of the brain" (https://sketchfab.com/3d-models/regions-of-the-brain-b2aac93ee4c440ed911f5765158edc9f) by University of Dundee, CAHID (https://sketchfab.com/anatomy_dundee) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
